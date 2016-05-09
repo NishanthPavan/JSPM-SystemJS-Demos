@@ -1,7 +1,8 @@
 # Modular JavaScript: A Beginners Guide to SystemJS & jspm
 
 An article introducing you to jspm and SystemJS that let you load any module format (ES6, AMD, CommonJS and globals) directly from any registry.
-http://www.sitepoint.com/modular-javascript-systemjs-jspm
+
+Article URL: http://www.sitepoint.com/modular-javascript-systemjs-jspm
 
 ## Requirements
 
